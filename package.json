@@ -1,0 +1,22 @@
+{
+  "name": "zhousirportfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhouYou528/ZhouSirPortfolio.git"
+  },
+  "author": "ZhouSir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhouYou528/ZhouSirPortfolio/issues"
+  },
+  "homepage": "https://github.com/ZhouYou528/ZhouSirPortfolio#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
